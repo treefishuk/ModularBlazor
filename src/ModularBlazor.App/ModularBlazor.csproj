@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ModularBlazor.ModuleOne\ModularBlazor.ModuleOne.csproj" />
+    <ProjectReference Include="..\ModularBlazor.ModuleTwo\ModularBlazor.ModuleTwo.csproj" />
+  </ItemGroup>
+
+</Project>
