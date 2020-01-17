@@ -13,6 +13,7 @@
 
 
   <ItemGroup>
+    <ProjectReference Include="..\..\..\MultiTenantBlazor\src\ModularBlazor.Components\ModularBlazor.Components.csproj" />
     <ProjectReference Include="..\ModularBlazor.Core\ModularBlazor.Core.csproj" />
   </ItemGroup>
 
