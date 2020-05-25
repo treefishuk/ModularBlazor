@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ModularBlazor.ModuleOne", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ModularBlazor.ModuleTwo", "src\ModularBlazor.ModuleTwo\ModularBlazor.ModuleTwo.csproj", "{CD4C0E84-9223-4163-A532-E5C3691350C0}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ModularBlazor.Components", "src\ModularBlazor.Components\ModularBlazor.Components.csproj", "{938163AB-AD9E-4380-814A-80E427017D9C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{CD4C0E84-9223-4163-A532-E5C3691350C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CD4C0E84-9223-4163-A532-E5C3691350C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CD4C0E84-9223-4163-A532-E5C3691350C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{938163AB-AD9E-4380-814A-80E427017D9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{938163AB-AD9E-4380-814A-80E427017D9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{938163AB-AD9E-4380-814A-80E427017D9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{938163AB-AD9E-4380-814A-80E427017D9C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

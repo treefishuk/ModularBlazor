@@ -11,10 +11,4 @@
     <PackageReference Include="Microsoft.AspNetCore.Components.Web" Version="3.0.0" />
   </ItemGroup>
 
-
-  <ItemGroup>
-    <ProjectReference Include="..\ModularBlazor.Components\ModularBlazor.Components.csproj" />
-    <ProjectReference Include="..\ModularBlazor.Core\ModularBlazor.Core.csproj" />
-  </ItemGroup>
-
 </Project>
